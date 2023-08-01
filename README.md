@@ -1,5 +1,6 @@
 # NETFLIX-WEBPAGE-POWERED-BY-DSPL
 Welcome to Netflix by DSPL! Join our magical journey to experience the best of Netflix. Led by visionary Mr. Udit Jain, our diverse team works tirelessly to deliver top-notch entertainment. Get ready for an enchanting streaming experience! 🚀🎉🌟
+
 👥 DSPL Team: Our DSPL team is a diverse group of talented individuals, each bringing their unique skills and expertise to the table. From skilled developers and creative designers to meticulous testers and dedicated project managers, we work in harmony to make this dream a reality.
 
 💼 HR and Co-Leads: At DSPL, we understand the importance of a supportive and inclusive work environment. Our HR team ensures that every team member feels valued, motivated, and encouraged to give their best. The Co-Leads play an integral role in coordinating different aspects of the project, fostering collaboration and ensuring smooth communication among team members.
